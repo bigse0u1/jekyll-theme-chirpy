@@ -28,8 +28,8 @@ url: "https://bigse0u1.github.io"
 github:
   username: bigse0u1 # change to your GitHub username
 
-instagram:
-  username: big_se0u1 # change to your Twitter username
+#Twitter:
+  #username:  # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -41,7 +41,7 @@ social:
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/bigse0u1 # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://www.instagram.com/big_se0u1
+    #- https://www.instagram.com/big_se0u1
     - https://www.linkedin.com/in/username
 
 # Site Verification Settings
