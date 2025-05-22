@@ -1,5 +1,5 @@
 ---
-title:  [Engineering Mathematics] Ordinary Differential Equations
+title:  Engineering Mathematics Ordinary Differential Equations
 date: 2025-05-22 21:00:00 +0000
 last_modified_at: 2025-05-22 22:00:00 +0000
 categories: 
