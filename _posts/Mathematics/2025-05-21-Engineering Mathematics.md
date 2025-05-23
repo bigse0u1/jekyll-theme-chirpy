@@ -1,5 +1,5 @@
 ---
-title:  Engineering Mathematics Ordinary Differential Equations
+title: Ordinary Differential Equations (상미분방정식)
 date: 2025-05-21 21:00:00 +0000
 last_modified_at: 2025-05-21 22:00:00 +0000
 categories: 
